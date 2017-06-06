@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employee>
+
+	<id>1</id>
+	<name>Ashutosh</name>
+	<address>Kalyani Nagar</address>
+	<city>Pune</city>
+	<pincode>411014</pincode>
+</employee>
